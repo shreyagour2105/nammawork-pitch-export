@@ -40,7 +40,7 @@ NammaWork AI enables workers to discover local employment opportunities and empl
 
 - **Team:** Derulo.json
 - **Track:** T-1 — Make MCP Matter
-- **Pitch Video:** [Watch pitch video](./Derulo.json_Track1_Pitch.mp4)
+- **Pitch Video:** [Watch pitch video](https://youtu.be/ICHhMfZ3dXY)
 
 ## Team Members
 
